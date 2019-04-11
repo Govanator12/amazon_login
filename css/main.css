@@ -1,0 +1,58 @@
+header{
+  display: block;
+  text-align: center;
+  margin: 40px auto
+
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 45px;
+  margin: 100px auto;
+  width: 85%;
+}
+
+.card>h1{
+  margin-bottom: 40px;
+  font-size: 350%;
+}
+
+.card>form{
+  font-size: 110%;
+  padding: 5px;
+  font-weight: 110%;
+}
+
+.btn{
+  width: 90%;
+  padding: 50% auto;
+  font-size: 75%;
+  color: black;
+}
+
+.btn-primary{
+  background: #f0c14b;
+}
+
+.btn-secondary{
+  background: #e7e9ec;
+}
+
+.form-check {
+  font-size: 80%;
+  margin: 20px auto;
+}
+
+.card>p {
+  text-align: center;
+  font-size: 80%;
+}
+
+footer{
+  width: 100%;
+  text-align: center;
+}
+
+footer a{
+  margin: 10px 10px;d
+}
